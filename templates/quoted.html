@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Response
+{% endblock %}
+
+{% block main %}
+    <div class="mb-3">
+        <h2>NAME</h2>
+        {{response["name"]}}
+    </div>
+
+    <div>
+        <h2>PRICE</h2>
+        {{response["price"]}}</div>
+    <div>
+        <h2>SYMBOL</h2>
+        {{response["symbol"]}}
+    </div>
+
+
+{% endblock %}
