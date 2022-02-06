@@ -2,6 +2,9 @@
 This is a stock market trade practice website for you to get a little insight into how the world of finance
 and stock markets functions.
 Feel free to check out the attached photos for a rough sample of the website.
+
+You can buy, sell and check your portfolio.
+
 ![Screenshot (958)](https://user-images.githubusercontent.com/56967692/152693435-83963875-334b-435f-8e24-f3eff4c76ca3.png)
 
 ![Screenshot (964)](https://user-images.githubusercontent.com/56967692/152693424-382c3973-d8a3-420e-bfe5-3e7d048b24a6.png)
